@@ -70,6 +70,7 @@
 }
 
 .content p {
+  position: relative;
   margin-top: 30px;
   font-size: 60px;
   font-weight: bolder;
