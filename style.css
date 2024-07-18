@@ -101,10 +101,12 @@ body {
   font-size: 40px;
   text-align: center;
 }
+
 footer {
+  position: fixed;
+  left: 0px;
+  right: 0px;
   bottom: 0px;
-  width: 100%;
-  height: auto;
   font-weight: 500;
   letter-spacing: 2px;
   color: white;
